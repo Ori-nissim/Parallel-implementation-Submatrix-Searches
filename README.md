@@ -9,4 +9,5 @@ For better understanding:
 ### What are the important parts in the folder?
 * Parallel Solution - Can be ran on two computers with MPI communication.
 * Sequntial Solution - Demonstartion of how heavy this work is and better understanding of the problem.
+* Documentation of my work and Complexity analysis
 
