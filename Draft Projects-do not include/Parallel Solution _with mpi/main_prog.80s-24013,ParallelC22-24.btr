@@ -1,0 +1,6 @@
+
+main_prog:24013 terminated with signal 11 at PC=55b414c2c288 SP=7fdaaa2becc0.  Backtrace:
+./main_prog(+0x3288)[0x55b414c2c288]
+/lib/x86_64-linux-gnu/libgomp.so.1(+0x1db9e)[0x7fdab90d6b9e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x94b43)[0x7fdab8f25b43]
+/lib/x86_64-linux-gnu/libc.so.6(+0x126a00)[0x7fdab8fb7a00]

@@ -1,0 +1,7 @@
+
+main_prog:18793 terminated with signal 11 at PC=7f4b2e9b4c4a SP=7ffff64557e8.  Backtrace:
+/lib/x86_64-linux-gnu/libc.so.6(+0x1a0c4a)[0x7f4b2e9b4c4a]
+./main_prog(+0x1a76)[0x55f26a13ea76]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f4b2e83dd90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f4b2e83de40]
+./main_prog(+0x1385)[0x55f26a13e385]
